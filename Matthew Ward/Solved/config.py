@@ -1,7 +1,7 @@
 # Enter your API keys
 
-api_key = "23981d4f95c277bc9e7fd36ab316449f30422100"
+api_key = ""
 
-gkey = "AIzaSyCt3iZn02ZXST9uTFioz5cxC4wp5KiXLK0"
+gkey = ""
 
-ykey = "Z9Cw5hVLIK8T4PHlrttrXpF3IfaJ02NWLXyBzLP2gzKouPwQP8FgPSe12i0AKaevGLISD2l8sqacOBJXiMujeyOFjnEmKBAI1hAIYk-OsJw-4PgMnJMA1cICWRpkYnYx"
+ykey = ""
