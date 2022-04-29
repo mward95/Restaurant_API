@@ -1,4 +1,4 @@
-### Team MSJ _project_1
+### The Cutlery Group_project_1
 
 ## Background
 
