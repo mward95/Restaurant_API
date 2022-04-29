@@ -2,9 +2,9 @@
 
 ## Background
 
-Team MSJ set forth to review data regarding restaurants ..... 
+The Cutlery Group set forth to review data regarding restaurants. The Cutlery Group conducted analysis to determine whether  ratings supported food quality.  Also does the price point matter in determining what’s considered e a great experience? Are there cities that review more than others? 
 
-The collaborative effort was to gather varuius restaruant information in the most populated cities in the United States. From this data, further analysis including ratings, pricing.....  From this, there could be multiple coorelations that could be assessed
+The collaborative effort was to gather varuius restaruant information in the most populated cities in the United States. From this data, further analysis including ratings, pricing and reviews.  From this, there could be multiple coorelations that could be reviewed.
 
 
 ## Work
@@ -38,13 +38,15 @@ F numpy
 
 G powerpoint
 
+H APIs
+
 ## Data Preparation
 
     1. Run dependency and data imports, and then merge the DataFrames into a single DataFrame.
-        - 
-        - 
+        - Censuscsv
+        - Google places 
     2. Display the number of unique cities in the data.
-    3. Display the data associated with ..... , create a new DataFrame with this data removed and then prepare clean     
+    3. Display the data associated with restaurants and ratings, create a new DataFrame then clean     
        DataFrame for the remaining step.
     4. Display the updated number of unique cities.
 
@@ -59,11 +61,10 @@ Create two summary statistics DataFrames:
 
      1. Generate bar plots showing the total number of . 
                 * Create the first bar plot by using Pandas's `DataFrame.plot()` method.
-                * 
-
+                
 ## Scatter Plot Creation 
       
-      1. Geerate a scatter plot of ratings versus price.
+      1. Generate a scatter plot of ratings versus price.
 
 ## Correlation and Regression Calculation 
 
