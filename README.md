@@ -61,14 +61,22 @@ Create two summary statistics DataFrames:
 
      1. Generate bar plots showing the total number of . 
                 * Create the first bar plot by using Pandas's `DataFrame.plot()` method.
+     
+
+
                 
 ## Scatter Plot Creation 
       
       1. Generate a scatter plot of ratings versus price.
+      
+      
 
 ## Correlation and Regression Calculation 
 
       1. Calculate the correlation coefficient and linear regression model 
       2. Plot the linear regression model on top of the previous scatter plot.
+      
+  
+
 
 ### Summary
