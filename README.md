@@ -23,7 +23,20 @@ Key tasks are the following:
 
 * Submit final analysis. 
 
-Important steps were necessary for the development of the analysis.
+## Tools/Modules:
+A Excel
+
+B Python
+
+C Pandas
+
+D matplotlib
+
+E pprint
+
+F numpy
+
+G powerpoint
 
 ## Data Preparation
 
