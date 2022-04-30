@@ -5,4 +5,4 @@ weather_api_key =""
 
 
 # Google API Key
-gkey =""
+gkey ="AIzaSyA9DO64qxTMuPER2uqkHv8ucEuGTuXJisI"
