@@ -1,4 +1,4 @@
-### The Cutlery Group_project_1
+### The Cutlery Group_Project_1
 
 ## Background
 
@@ -30,21 +30,32 @@ B Python
 
 C Pandas
 
-D matplotlib
+D Matplotlib
 
 E pprint
 
-F numpy
+F Numpy
 
-G powerpoint
+G Powerpoint
 
 H APIs
+
+
+## Analysis Questions 
+
+Does pricing influence ratings?
+
+Does pricing influence the number of reviews?
+
+Does population influence rating?
+
+Does population affect the number of reviews?
 
 ## Data Preparation
 
     1. Run dependency and data imports, and then merge the DataFrames into a single DataFrame.
         - Censuscsv
-        - Google places 
+        - Google places API 
     2. Display the number of unique cities in the data.
     3. Display the data associated with restaurants and ratings, create a new DataFrame then clean     
        DataFrame for the remaining step.
@@ -52,19 +63,18 @@ H APIs
 
 ## Summary Statistics Generation
 
-Create two summary statistics DataFrames:
+Create summary statistics DataFrames:
 
-     1. For Table 1, utilze "groupby" method to generate the city and ratings.Then combine objects into a single summary statistics 
-     DataFrame.
+     1. Utilzation of the "groupby" method to generate the city and ratings.
+     
+     2. Combine objects into a single summary statistics DataFrame.
     
 ## Bar Charts Creation
 
      1. Generate bar plots showing the total number of . 
                 * Create the first bar plot by using Pandas's `DataFrame.plot()` method.
      
-
-
-                
+               
 ## Scatter Plot Creation 
       
       1. Generate a scatter plot of ratings versus price.
@@ -77,6 +87,6 @@ Create two summary statistics DataFrames:
       2. Plot the linear regression model on top of the previous scatter plot.
       
   
-
-
 ### Summary
+
+
