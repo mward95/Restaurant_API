@@ -104,4 +104,16 @@ Create summary statistics DataFrames:
  
 ### Summary
 
+# Weak Correlations
+
+Price level and customer rating R-Square Value is: 0.28
+
+Price level and the number of ratings R-Square Value is: -0.21
+
+Population size and rating? R-Square Value is: -0.21 
+
+# No Correlations
+Population size and people submitting reviews? R-Square Value is: 0.1
+
+![image](https://user-images.githubusercontent.com/99145651/166160155-4effa2c4-672b-464f-80ab-6e123afaf80d.png)
 
