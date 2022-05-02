@@ -104,16 +104,24 @@ Create summary statistics DataFrames:
  
 ### Summary
 
-# Weak Correlations
+Major Findings from Project 1
 
-Price level and customer rating R-Square Value is: 0.28
+The Cutlery Group conducted analysis to determine whether different variables impacted restaurant reviews. This analysis utilized Google API for restaurant data and US city population data. What we set out to find in Project 1 was to answer these four questions:
+1.	Does pricing influence ratings?
+2.	Does pricing influence the number of reviews?
+3.	Does population influence rating?
+4.	Does population affect the number of reviews?
 
-Price level and the number of ratings R-Square Value is: -0.21
+What we found from the data collected was that we have weak correlations between:
+1.	Price level and customer rating, the R-Square Value was: 0.28, this would make sense because there is a known thought that as you spend more money, you should be receiving higher quality service.
+2.	Price level and the number of ratings, the R-Square Value was: -0.21, this had a negative R-value which showed that as the price level went up the restaurant received less reviews. Which made sense as price level increases its harder for your average families to go out and spend more money on food. The data showed that your average individual going out to eat stayed between the 2-3 price level range
+3.	Population size and rating, the R-Square Value was: -0.21, this had a negative correlation as well. As the population got larger the average rating started to decrease. This could be due to the larger diversity of people, and maybe easier availability to more of the same food which would be a competition factor.
 
-Population size and rating? R-Square Value is: -0.21 
+We found no correlations between:
 
-# No Correlations
-Population size and people submitting reviews? R-Square Value is: 0.1
+4.	Population size and people submitting reviews, the R-Square Value was: 0.11, this had the lowest R-Square value. This could be due how the question was worded or from the data sample we had. We figured as a population increased, we would see more reviews, but this was not how it turned out. Maybe some ways to approach this question better next time would be to change the location of the center of latitude and longitude to a more active spot in the city, or to increase the radius so that more restaurants are include in the data.
+This has been our conclusion for project 1.
+
 
 ![image](https://user-images.githubusercontent.com/99145651/166160155-4effa2c4-672b-464f-80ab-6e123afaf80d.png)
 
