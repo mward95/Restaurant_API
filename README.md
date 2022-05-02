@@ -95,13 +95,12 @@ Create summary statistics DataFrames:
       1. Create correlation coefficient and linear regression models. 
       2. Plot the linear regression model on top of the previous scatter plot.
       
-![image](https://user-images.githubusercontent.com/99145651/166159913-80f7b651-a29e-4c46-adb7-b7004eae1ed7.png)
-![image](https://user-images.githubusercontent.com/99145651/166159927-b93c1535-c920-4232-a4e6-29e6f9677a16.png)
+   ![image](https://user-images.githubusercontent.com/100813963/166336556-acdfbd52-232f-4386-bb87-8946e635a0aa.png)
+   ![image](https://user-images.githubusercontent.com/100813963/166336664-685fa2ad-90ea-4f39-b8a7-888fb557cd82.png)
 
-![image](https://user-images.githubusercontent.com/99145651/166159947-55976ca9-bd6a-408d-9867-f8e42d95c4f1.png)
-![image](https://user-images.githubusercontent.com/99145651/166159963-eae615f7-74a8-49f1-a4a2-a2ed63fc24ed.png)
+   ![image](https://user-images.githubusercontent.com/100813963/166336192-24bd0a03-012c-49e7-900b-7e404507d62e.png)
+   ![image](https://user-images.githubusercontent.com/100813963/166336237-669fa75b-4b84-4745-8495-f93a61872ac1.png)
 
- 
 ### Summary
 
 Major Findings from Project 1
