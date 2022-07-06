@@ -4,7 +4,7 @@
 
 The Cutlery Group set forth to review data regarding restaurants. The Cutlery Group conducted analysis to determine whether  ratings supported food quality.  Also does the price point matter in determining what’s considered e a great experience? Are there cities that review more than others? 
 
-The collaborative effort was to gather varuius restaruant information in the most populated cities in the United States. From this data, further analysis including ratings, pricing and reviews.  From this, there could be multiple coorelations that could be reviewed.
+The collaborative effort was to gather various restaruant information in the most populated cities in the United States. From this data, further analysis including ratings, pricing and reviews.  From this, there could be multiple coorelations that could be reviewed.
 
 
 ## Work
